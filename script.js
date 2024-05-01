@@ -86,7 +86,7 @@ function showTableChampionsLeague() {
   mainTag.innerHTML = `<div class="main-container1">
                         <aside class="aside">
                           <div class="aside-img">
-                            <img src="https://ofstats.com/img/league_logo/3da57713-959c-4b0b-9b33-df9bc3ffd6b5.png" alt="">
+                            <img src="https://ofstats.com/img/league_logo/f9b7b5c6-6614-4076-a72f-09a751bdf79d.png" alt="">
                           </div>
                           <div class="aside-name">
                             <p class="aside-title--text">Название</p>
@@ -582,7 +582,7 @@ function showTableEuropaLeague() {
   mainTag.innerHTML = `<div class="main-container1">
                         <aside class="aside">
                           <div class="aside-img">
-                            <img src="https://ofstats.com/img/league_logo/16be7ef7-edf8-4db7-bca1-4bd553133cee.png" alt="">
+                            <img src="https://ofstats.com/img/league_logo/a7fd7f97-adc9-4bbc-b9dd-8d22f70fe003.png" alt="">
                           </div>
                           <div class="aside-name">
                             <p class="aside-title--text">Название</p>
@@ -1074,7 +1074,7 @@ function showTablePremierLeague() {
   mainTag.innerHTML = `<div class="main-container1">
                         <aside class="aside">
                           <div class="aside-img">
-                            <img src="https://ofstats.com/img/league_logo/3a3081d0-289f-4c03-96d5-a7221cb74381.png" alt="">
+                            <img src="https://ofstats.com/img/league_logo/87ab049c-21ba-4b5b-bbd1-abeb892c63e6.png" alt="">
                           </div>
                           <div class="aside-name">
                             <p class="aside-title--text">Название</p>
@@ -1221,7 +1221,7 @@ function showTableSeriaA() {
   mainTag.innerHTML = `<div class="main-container1">
                         <aside class="aside">
                           <div class="aside-img">
-                            <img src="https://ofstats.com/img/league_logo/02399803-de98-46f9-8023-c34175e2585a.png" alt="">
+                            <img src="https://ofstats.com/img/league_logo/eaaa4c34-4079-48c0-b290-a9eb80ffaa84.png" alt="">
                           </div>
                           <div class="aside-name">
                             <p class="aside-title--text">Название</p>
@@ -1400,7 +1400,7 @@ function showTableLaLiga() {
   mainTag.innerHTML = `<div class="main-container1">
                         <aside class="aside">
                           <div class="aside-img">
-                            <img src="https://ofstats.com/img/league_logo/3f038be5-8fca-4ed9-9fbc-376e4c11e9a5.png" alt="">
+                            <img src="https://ofstats.com/img/league_logo/8947bfd2-53f4-4a39-bca4-62ee2acc42c9.png" alt="">
                           </div>
                           <div class="aside-name">
                             <p class="aside-title--text">Название</p>
@@ -1579,7 +1579,7 @@ function showTableBundesLiga() {
   mainTag.innerHTML = `<div class="main-container1">
                         <aside class="aside">
                           <div class="aside-img">
-                            <img src="https://ofstats.com/img/league_logo/5c579675-5e06-4d39-a746-9719649b8f81.png" alt="">
+                            <img src="https://ofstats.com/img/league_logo/b0b6d606-6e10-4a1d-9f74-885826642e7e.png" alt="">
                           </div>
                           <div class="aside-name">
                             <p class="aside-title--text">Название</p>
@@ -1766,7 +1766,7 @@ function showTableLigue1() {
   mainTag.innerHTML = `<div class="main-container1">
                         <aside class="aside">
                           <div class="aside-img">
-                            <img src="https://ofstats.com/img/league_logo/51b156db-51f5-4318-bfc3-88b014ffc1b6.png" alt="">
+                            <img src="https://ofstats.com/img/league_logo/f20ffaa4-6413-4754-83cd-e69151c0e7e3.png" alt="">
                           </div>
                           <div class="aside-name">
                             <p class="aside-title--text">Название</p>
@@ -1949,7 +1949,7 @@ function showTableRPL() {
   mainTag.innerHTML = `<div class="main-container1">
                         <aside class="aside">
                           <div class="aside-img">
-                            <img src="https://ofstats.com/img/league_logo/37805d60-d8a4-48fc-9945-ed7eb4255473.png" alt="">
+                            <img src="https://ofstats.com/img/league_logo/17ab7737-cef9-4499-83f5-65ea76bac676.png" alt="">
                           </div>
                           <div class="aside-name">
                             <p class="aside-title--text">Название</p>
